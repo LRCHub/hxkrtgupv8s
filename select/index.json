@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "異人たちの時間",
+  "base_artist": "メリダ=アンジェル(CV.楠木ともり)",
+  "createdAt": "2026-02-20T05:27:45.592588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "異人たちの時間",
+      "artist": "メリダ=アンジェル(CV.楠木ともり)",
+      "has_synced": true,
+      "path": "select/01_異人たちの時間_メリダ=アンジェル(CV.楠木ともり).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "異人たちの時間 - Ijintachi no Jikan",
+      "artist": "メリダ=アンジェル(CV.楠木ともり)",
+      "has_synced": false,
+      "path": "select/02_異人たちの時間_-_Ijintachi_no_Jikan_メリダ=アンジェル(CV.楠木ともり).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "異人たちの時間",
+      "artist": "メリダ＝アンジェル（CV.楠木ともり）",
+      "has_synced": false,
+      "path": "select/03_異人たちの時間_メリダ=アンジェル(CV.楠木ともり).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "異人たちの時間",
+      "artist": "楠木ともり",
+      "has_synced": true,
+      "path": "select/04_異人たちの時間_楠木ともり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "異人たちの時間",
+      "artist": "メリダ=アンジェル(CV.楠木ともり)",
+      "has_synced": false,
+      "path": "select/pl_01_異人たちの時間_メリダ=アンジェル(CV.楠木ともり).txt"
+    }
+  ]
+}
